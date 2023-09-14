@@ -1,0 +1,6 @@
+[submodule "lomap_es3a"]
+	path = lomap_es3a
+	url = https://github.com/Arquisoft/lomap_es3a.git
+[submodule "lomap_es3a.wiki"]
+	path = lomap_es3a.wiki
+	url = https://github.com/Arquisoft/lomap_es3a.wiki.git
